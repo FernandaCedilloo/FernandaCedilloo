@@ -13,8 +13,7 @@
 
 <a align="center" ><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=1E90FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+competitive+programmer;Data+Scientist+student" /></a>
 
-I'm someone ambitious who constantly develop new skills and abilities, always intending to continue growing and involving in my profession.
-
+Hi, it's Fernanda, a University student who's entering the gorgeous world of computing. I'm constantly developing new skills, always intending to continue growing and getting involved in my profession. 
 
 
   ---
