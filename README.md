@@ -27,7 +27,8 @@ Hi, it's Fernanda, a University student who's entering the gorgeous world of com
 * I'm currently studying data science.
 * I like to explore new technologies.
 * Future Goals: Never stop creating new ideas.
-* In my free time,
+* In my spare time, I love to play football flag and hang out with my friends.
+* Fun fact: My firt code line wan't "Hello World".
 
   
 ## 🛠️ My Skills
