@@ -1,3 +1,4 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <p align="center">
   <h1 align="center">Hey, I'm Fernanda 👋🏼 </h1>
 </p>
