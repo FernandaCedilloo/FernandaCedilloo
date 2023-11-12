@@ -2,6 +2,9 @@
 <p align="center">
   <h1 align="center">Hey, I'm Fernanda 👋🏼 </h1>
 </p>
+
+
+
 <div align="center">
 <div id="badges">
 <a href="https://www.linkedin.com/in/fernanda-rivera-cedillo-a30096291/">
@@ -12,9 +15,11 @@
 </a>
 </div>
 
-<a align="center" ><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=1E90FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+competitive+programmer;Data+Scientist+student" /></a>
 
-Hi, it's Fernanda, a University student who's entering the gorgeous world of computing. I'm constantly developing new skills, always intending to continue growing and getting involved in my profession. 
+
+<div align="center" ><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=1E90FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+competitive+programmer;Data+Scientist+student" /></div>
+
+<p align="left" >Hi, it's Fernanda, a University student who's entering the gorgeous world of computing. I'm constantly developing new skills, always intending to continue growing and getting involved in my profession. </p>
 
 
   ---
