@@ -30,7 +30,7 @@
 <li>I like to explore new technologies.</li>
 <li>Future Goals: Never stop creating new ideas.</li>
 <li>In my spare time, I love to play football flag and hang out with my friends.</li>
-<li>Fun fact: My firt code line wan't "Hello World".</li>
+<li>Fun fact: My first code line wan't "Hello World".</li>
 
 </ul>
 </div>
