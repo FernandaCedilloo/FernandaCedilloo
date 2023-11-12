@@ -32,10 +32,6 @@ Hi, it's Fernanda, a University student who's entering the gorgeous world of com
 
  ---
 
-<p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
-</p>
-
 -------------------
 
 ## :headphones: Spotify Playing
