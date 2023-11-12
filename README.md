@@ -23,20 +23,20 @@
 
 
   ---
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## 👩🏽‍💻 About me
+<div align="left">
+<ul>
+<li>I'm currently studying data science.</li>
+<li>I like to explore new technologies.</li>
+<li>Future Goals: Never stop creating new ideas.</li>
+<li>In my spare time, I love to play football flag and hang out with my friends.</li>
+<li>Fun fact: My firt code line wan't "Hello World".</li>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+</ul>
+</div>
 
-<br>
-
-* I'm currently studying data science.
-* I like to explore new technologies.
-* Future Goals: Never stop creating new ideas.
-* In my spare time, I love to play football flag and hang out with my friends.
-* Fun fact: My firt code line wan't "Hello World".
-
-  
 ## 🛠️ My Skills
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 <p align="left"> 
